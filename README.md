@@ -15,7 +15,7 @@ The goal is to study how different training components affect generalization und
 | + Dropout | 0.4936 | 0.7026 | 0.5789 | 0.0454 | 207 |
 | **Combined** | **0.4823** | **0.6945** | **0.5620** | **0.0674** | **185** |
 
-Full methodology, discussion, and figures are available in the [report](relatorio/Projeto_MLP_Relatorio.pdf).
+Full methodology, discussion, and figures are available in the [report](Projeto_MLP_Relatorio.pdf).
 
 ## Project Structure
 
