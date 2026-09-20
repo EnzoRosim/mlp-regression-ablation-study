@@ -13,7 +13,7 @@ The goal is to study how different training components affect generalization und
 | + L2 | 0.5002 | 0.7073 | 0.5816 | 0.0326 | 150 |
 | + L1 | 0.4880 | 0.6985 | 0.5759 | 0.0563 | 150 |
 | + Dropout | 0.4936 | 0.7026 | 0.5789 | 0.0454 | 207 |
-| **Combined (Momentum + L2)** | **0.4823** | **0.6945** | **0.5620** | **0.0674** | 185 |
+| **Combined** | **0.4823** | **0.6945** | **0.5620** | **0.0674** | **185** |
 
 Full methodology, discussion, and figures are available in the [report](relatorio/relatorio.pdf).
 
