@@ -86,4 +86,4 @@ This trains six models (baseline, momentum, L2, L1, dropout, combined), saves a 
 
 ## Report
 
-The full report (in Portuguese) discussing the experimental setup, training dynamics, ablation results, and residual analysis is available at [`relatorio/relatorio.pdf`](relatorio/relatorio.pdf).
+The full report (in Portuguese) discussing the experimental setup, training dynamics, ablation results, and residual analysis is available at [`relatorio/relatorio.pdf`](Projeto_MLP_Relatorio.pdf).
