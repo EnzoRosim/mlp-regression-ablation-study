@@ -1,0 +1,18 @@
+{
+  "config": {
+    "dropout_p": 0.0,
+    "l1_lambda": 0.0,
+    "l2_weight_decay": 0.0,
+    "momentum": 0.9,
+    "lr": 0.01
+  },
+  "epoca_parada": 150,
+  "perda_treino_final": 0.5031596422195435,
+  "perda_val_final": 1.2297236919403076,
+  "metricas_teste": {
+    "MAE": 0.575483500957489,
+    "MSE": 0.5021907687187195,
+    "RMSE": 0.7086541954428264,
+    "R2": 0.028821289539337158
+  }
+}
